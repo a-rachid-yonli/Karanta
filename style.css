@@ -1,0 +1,33 @@
+#acueille {
+    background: url(img/bg_section1.jpg) center/cover no-repeat fixed;
+    /** height: 70vh;**/
+}
+
+#section2 {
+    background-color: darkgray;
+}
+
+#a-propos {
+    background-color: rgb(207, 201, 201);
+}
+
+#contact {
+    background-color: slategrey;
+}
+
+#footer {
+    background-color: red
+}
+
+#hover:hover {
+    background-color: blue!important;
+}
+
+#tete {
+    background-color: grey;
+    opacity: 0.8;
+}
+
+#outline {
+    text-decoration: none;
+}
